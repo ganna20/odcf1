@@ -103,7 +103,7 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 
 ![image](https://github.com/user-attachments/assets/1733766f-663a-4b6f-8ce2-c82533448584)
 
-![image](https://github.com/user-attachments/assets/54a72242-c0d7-457f-bf54-00daa92190c7)
+
 
 
 
