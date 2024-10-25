@@ -2,15 +2,7 @@
 This project involves deploying the Node.js application from the Node.js GitHub repository 
 to a local Kubernetes cluster. The deployment will use ArgoCD for continuous delivery. We 
 will set up a Jenkins pipeline to automate the build and deployment process.
-# Prerequisites
-• Virtual Machine (VM) for Jenkins
-• Docker installed on the Jenkins VM
-• Another VM for Minikube and kubectl
-• Minikube installed on the second VM
-• ArgoCD installed on Minikube
-• Jenkins installed on the first VM
-• GitHub account
-• Docker Hub account
+
 # machine for jenkins and Docker 
 
 # install Docker
@@ -57,8 +49,7 @@ After writing the Docker File and Jenkins File, enter the Jenkins GUI, create a 
 
 ![image](https://github.com/user-attachments/assets/f6da31f4-bf85-40cb-8af3-0bd99acc6c3c)
 
-# ensure now DockerHub
-![image](https://github.com/user-attachments/assets/aa6088c5-be78-494c-bb02-6374f033c875)
+
 
 
 # Another VM for Minikube and kubectl and Argocd
